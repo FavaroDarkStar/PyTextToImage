@@ -175,8 +175,11 @@ if not verbose:
 
 # ========== PROMPTS ==========
 prompts = [
-    "Minimalist moon, vector, elegant, clean, feminine style",
-    "Badge with vintage mystical style, handwritten font, warm colors"
+    "vintage badge logo, minimalistic logo for a spiritual self-knowledge brand @tarot.bymile. Modern serif typography, clean vector layout, rosy magenta theme.",
+    "Apothecary vintage logo style combining mystical and natural elements for @tarot.bymile — avoid literal icons, emphasize elegance and intuitive icons."
+    "Combination mark logo for @tarot.bymile — blend text and abstract icon inspired by crescent moon or lantern. Warm and magical tone.",
+    "Typography-based logo using soft handwritten font for @tarot.bymile. Feminine, vintage, inviting design with a mystical hint.",
+    "vintage scalable logo with old school traces, suited for digital use. Color: #993d74. Include abstract symbol reflecting self-discovery for @tarot.bymile."
 ]
 
 referencias_tratadas = tratar_imagens_referencia(verbose=True)
