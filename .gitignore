@@ -1,0 +1,18 @@
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar diretórios de imagens geradas ou referência
+imagens*/
+*.zip
+.vscode/
+
+# Ignorar arquivos temporários ou de sistema
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
+# Ignorar notebooks (caso não esteja usando)
+*.ipynb
